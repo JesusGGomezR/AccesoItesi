@@ -67,7 +67,7 @@ Esta aplicación no puede funcionar sin asistencia de empleados con QR, así que
 Por favor, siga 2 pasos:<br>
 1. Administración del sistema de configuración
 Por favor, compruebe esto<br>
-(https://github.com/JesusGGomezR/AccesoItesi.wiki.git)<br>
+https://github.com/JesusGGomezR/AccesoItesi/wiki#descargar-o-clonar-primero<br>
 
 2. Configuracion para aplicacion Android <br>
 Por favor revise this<br>
