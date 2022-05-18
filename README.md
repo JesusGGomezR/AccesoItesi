@@ -23,7 +23,7 @@ Sistema de acceso para el Instituto Tecnológico Superior de Irapuato Extensión
 
 ! [código qr de asistencia del sistema] (https://user-images.githubusercontent.com/11581453/74131506-64f9a180-4c1f-11ea-8aea-b4847f02d0ec.png)
 
-<img src="https://pps.whatsapp.net/v/t61.24694-24/166729456_1015110895775337_3672655914390553945_n.jpg?ccb=11-4&oh=f2008752cf5a4ff6e09c928dada48177&oe=62943404" width="180"> 
+<img src="https://i.pinimg.com/564x/7c/13/79/7c137967d7b208825ce967a89c49e4c6.jpg" width="180"> 
 <img src="https://cdn.pixabay.com/photo/2022/05/18/04/12/04-12-11-33_960_720.jpg" width="180"> 
 <img src="https://cdn.pixabay.com/photo/2022/05/18/04/12/04-12-17-462_960_720.jpg" width="180">
 
