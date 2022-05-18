@@ -24,7 +24,8 @@ Sistema de acceso para el Instituto Tecnológico Superior de Irapuato Extensión
 ! [código qr de asistencia del sistema] (https://user-images.githubusercontent.com/11581453/74131506-64f9a180-4c1f-11ea-8aea-b4847f02d0ec.png)
 
 
-<img src="https://user-images.githubusercontent.com/11581453/74131411-367bc680-4c1f-11ea-8409-d9a8ea6bd5fb.png" width="200">  <img src="https://user-images.githubusercontent.com/11581453/74131417-38de2080-4c1f-11ea-9cb4-8cef333726b0.png" width="200">  <img src="https://user-images.githubusercontent.com/11581453/74131418-3a0f4d80-4c1f-11ea-9b08-76d69042cfe1.png" width="200">
+<img src="https://cdn.pixabay.com/photo/2022/05/18/04/12/04-12-11-234_960_720.jpg" width="180" height="350">  <img src="https://cdn.pixabay.com/photo/2022/05/18/04/12/04-12-11-33_960_720.jpg" width="180" height="350"> 
+<img src="https://cdn.pixabay.com/photo/2022/05/18/04/12/04-12-17-462_960_720.jpg" width="180" height="350">
 
 
 # Nivel de usuario
@@ -95,11 +96,11 @@ https://github.com/abedputra/Attendance-login-system/wiki/Settings-on-Employee-A
 # Acerca de
 El sistema de inicio de sesión de asistencia se basa en el [codeigniter](https://github.com/bcit-ci/CodeIgniter). El sistema de inicio de sesión de asistencia se basa en el marco Bootstrap creado por [Mark Otto] (https://twitter.com/mdo) y [Jacob Thorton] (https://twitter.com/fat).
 
-Si tiene alguna pregunta, envíeme un correo electrónico: jssbrrgn@gmail.com
-Visita: https://github.com/JesusGGomezR
+Si tiene alguna pregunta, envíeme un correo electrónico: jssbrrgn@gmail.com, omn76231@gmail.com, karla29.vazquezl@gmailcom, pabloperezm988@gmail.com, georginaalc4010@gmail.com y karen.alvareza2010@gmail.com
+
 
 
 ###### ***@Copyright by ISC (Liz, Orla, Gina, Juan, Jesus, Karla)***
 
 Por favor, no dude en enviarme un correo electrónico si tiene algún problema.
-Muchas gracias, mi correo electrónico: jssbrrgn@gmail.com
+Muchas gracias, mi correo electrónico: jssbrrgn@gmail.com, omn76231@gmail.com, karla29.vazquezl@gmail.com, pabloperezm988@gmail.com, georginaalc4010@gmail.com y karen.alvareza2010@gmail.com
