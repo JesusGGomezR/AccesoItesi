@@ -13,18 +13,18 @@ Sistema de acceso para el Instituto Tecnológico Superior de Irapuato Extensión
 - Olvidar contraseña
 - Nivel de usuario de rol
 - Editar perfil de usuario
-- Perfil de usuario de Gravatar
+- Perfil de usuario
 - Recaptcha por Google
-- Lista de asistencia de los empleados
-- Exportar la asistencia de los empleados a CSV o XLS
-- Verifique la asistencia de sus empleados tarde o a tiempo todos los días
+- Lista de asistencia de los usuarios
+- Generar reporte de los usuarios
+- Verifique la asistencia de sus usuarios tarde o a tiempo todos los días
 - Revise la asistencia de sus empleados durante 1 semana, 1 mes, 1 año, etc.
-- Genere QR para el nombre de su empleado
+- Genere QR para el nombre de su usuario
 
 ! [código qr de asistencia del sistema] (https://user-images.githubusercontent.com/11581453/74131506-64f9a180-4c1f-11ea-8aea-b4847f02d0ec.png)
 
 <img src="https://i.pinimg.com/564x/7c/13/79/7c137967d7b208825ce967a89c49e4c6.jpg" width="180" height="350"> 
-<img src="https://cdn.pixabay.com/photo/2022/05/18/04/12/04-12-11-33_960_720.jpg" width="180" height="350"> 
+<img src="https://i.pinimg.com/564x/ef/b3/6c/efb36c46abc6393dc63ae16b5d2fd794.jpg" width="180" height="350"> 
 <img src="https://i.pinimg.com/564x/c1/ed/f3/c1edf3463fe19624d433e53afe9b83f6.jpg" width="180" height="350">
 
 
