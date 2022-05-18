@@ -72,7 +72,7 @@ https://github.com/JesusGGomezR/AccesoItesi/wiki#descargar-o-clonar-primero<br>
 
 2. Configuracion para aplicacion Android <br>
 Por favor revise this<br>
-https://github.com/abedputra/Attendance-login-system/wiki/Settings-on-Employee-Attendance-with-QR-Application-%3F
+https://github.com/JesusGGomezR/AccesoItesi/wiki/Configuraci%C3%B3n-Android
 
 # ----Cómo obtener la CLAVE?
 -Ir al enlace del sistema de inicio de sesión de Asistencia<br>
