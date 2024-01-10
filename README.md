@@ -26,6 +26,7 @@ Sistema de acceso para el Instituto Tecnológico Superior de Irapuato Extensión
 <img src="https://i.pinimg.com/564x/7c/13/79/7c137967d7b208825ce967a89c49e4c6.jpg" width="180" height="350"> 
 <img src="https://i.pinimg.com/564x/ef/b3/6c/efb36c46abc6393dc63ae16b5d2fd794.jpg" width="180" height="350"> 
 <img src="https://i.pinimg.com/564x/c1/ed/f3/c1edf3463fe19624d433e53afe9b83f6.jpg" width="180" height="350">
+![Captura de pantalla 2024-01-10 011846](https://github.com/JesusGGomezR/AccesoItesi/assets/83792380/a71d9326-8157-4594-9a2d-7714fca9ab1c)
 
 
 # Nivel de usuario
